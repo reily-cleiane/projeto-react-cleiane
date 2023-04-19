@@ -8,7 +8,7 @@ export const TestePedido: Story = () => {
         id: 1,
         nome: 'Pizza de peito de peru',
         descricao: 'Queijo mussarela, peito de peru, etc',
-        imagem: 'imagens/pizza1.jpg',
+        imagem: 'imagens/design/pizza1.jpg',
         preco: 75.65
     }
 

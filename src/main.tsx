@@ -10,7 +10,7 @@ const pedido1: PedidoProps = {
       id: 1,
       nome: 'Pizza de peito de peru',
       descricao: 'Queijo mussarela, peito de peru, etc',
-      imagem: 'imagens/pizza1.jpg',
+      imagem: 'imagens/design/pizza1.jpg',
       preco: 75.65
   },
   quantidade: 4
@@ -21,7 +21,7 @@ const pedido2: PedidoProps = {
       id: 2,
       nome: 'Pizza de frango',
       descricao: 'Queijo mussarela, frango, etc',
-      imagem: 'imagens/pizza1.jpg',
+      imagem: 'imagens/design/pizza2.jpg',
       preco: 60.00
   },
   quantidade: 1
@@ -32,7 +32,7 @@ const pedido3: PedidoProps = {
       id: 3,
       nome: 'Pizza de carne',
       descricao: 'Queijo mussarela, carne, etc',
-      imagem: 'imagens/pizza1.jpg',
+      imagem: 'imagens/design/pizza3.jpg',
       preco: 64.18
   },
   quantidade: 1
