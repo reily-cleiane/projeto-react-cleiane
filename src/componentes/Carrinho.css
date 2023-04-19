@@ -1,0 +1,10 @@
+.pedidoResumo{
+    display: flex;
+    justify-content: space-between;
+    align-items: top;
+}
+
+.pagina{
+    width: 98%;
+    margin: auto;
+}

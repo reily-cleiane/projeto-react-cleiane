@@ -1,0 +1,25 @@
+.pedido{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 0.1rem solid slategray;
+    padding: 1rem;
+
+}
+
+.lixeira{
+    width: 20px;
+}
+
+.quantidade{
+    width: 6%;
+    border: none;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.precoPedido{
+    width: 10%;
+    text-align: right;
+}
+
